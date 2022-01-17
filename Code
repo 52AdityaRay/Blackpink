@@ -1,5 +1,6 @@
 include (stdio.h)
 void main()
 {
-print("Hello World!")
+printf("Hello World!, I'm Aditya Ray"):
+printf("\n This is a basic C program"):
 }
